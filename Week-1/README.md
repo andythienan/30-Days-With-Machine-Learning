@@ -3,7 +3,7 @@
 1. Introduction of Python Numpy
 2. Introduction of Numpy Random
 3. Introduction of NumPy ufunc
-4. Introduction of Pyton Pandas
+4. Introduction of Python Pandas
 5. Numpy Creating Arrays
 6. Numpy Array Indexing
 7. Numpy Array Slicing
@@ -55,4 +55,6 @@ Python basics (calculator, loops, functions, classes)
 NumPy & Pandas hands-on (data manipulation)
 Data Visualization (Matplotlib, Seaborn)
 Basic EDA (exploratory data analysis)
+
 Predict house prices (Linear Regression)
+- Dataset: https://www.kaggle.com/datasets/shree1992/housedata
