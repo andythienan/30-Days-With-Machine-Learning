@@ -1,7 +1,7 @@
 # V. Week 5:
 
 Text Summarizer (NLTK or TF-IDF)
-
+Use NLTK to download stopwords: stopwords, punkt
 
 Fake Product Review Detection
 
