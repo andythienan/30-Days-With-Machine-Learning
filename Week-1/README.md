@@ -1,13 +1,13 @@
 # I. Week 1
 
-1. Introduction of Python Numpy
-2. Introduction of Numpy Random
+1. Introduction of Python Numpy         #Done
+2. Introduction of Numpy Random         #Done
 3. Introduction of NumPy ufunc
-4. Introduction of Python Pandas
-5. Numpy Creating Arrays
-6. Numpy Array Indexing
-7. Numpy Array Slicing
-8. Numpy Data Types
+4. Introduction of Python Pandas        #Done
+5. Numpy Creating Arrays                #Done
+6. Numpy Array Indexing                 #Done
+7. Numpy Array Slicing                  #Done
+8. Numpy Data Types                     #Done
 9. Numpy Array Shape
 10. Numpy Array Reshaping
 11. Numpy Arrays
@@ -24,10 +24,10 @@
 22. NumPy ufunc Logs
 23. NumPy ufunc Summations
 24. NumPy ufunc Products
-25. Pandas Series
-26. Pandas DataFrames
-27. Pandas Read CSV
-28. Pandas Read JSON
+25. Pandas Series                       #Done
+26. Pandas DataFrames                   #Done
+27. Pandas Read CSV                     #Done
+28. Pandas Read JSON                    #Done
 29. Pandas Analyzing DataFrames
 30. Introduction of Matplotlib
 31. Plotting
