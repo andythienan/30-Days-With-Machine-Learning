@@ -30,7 +30,7 @@
 28. Pandas Read JSON                    #Done
 29. Pandas Analyzing DataFrames
 30. Introduction of Matplotlib
-31. Plotting
+31. Plotting                            #Done
 32. Markers
 33. Line
 34. Labels
